@@ -8,3 +8,4 @@ health=800
 attack=90
 
 print(name,level,health,attack)
+# 여기에 다른 내용을 추가했어
